@@ -76,6 +76,14 @@ TableNet | https://colab.research.google.com/drive/1sHl73sjGjt-eeEtNsr2dov-8Q0ea
 SSD | https://colab.research.google.com/drive/12slrZG5skLgN6xKooCiiYdMvD9BVOQ8H?usp=share_link|
   
 ## 5. OUR RESEARCH WORK (TIMELINE) - 
-### 5.1 RE-EVALUATION OF THE PRETRAINED MODELS: 
+### 5.1 EXAMINING THE PATTERNS OF THE LATEST MODELS: 
+  * For Evaluation We considered Three Models:-
+      * CascadeTabNet
+      * Multi-Type-TD-TSR
+      * TGRNet
+      
+     The Detailed report of the work can be found here.
+
+### 5.2 RE-EVALUATION OF THE PRETRAINED MODELS: 
   * The aforementioned pre-trained models were tested on <a href="https://github.com/xuewenyuan/TGRNet">`TableGraph24k`</a> that was unfamiliar to each model to assess their capabilities in predicting bounding borders and extracting structures. The results for all the three types can be seen here.
   
