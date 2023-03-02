@@ -85,5 +85,5 @@ SSD | https://colab.research.google.com/drive/12slrZG5skLgN6xKooCiiYdMvD9BVOQ8H?
      The Detailed report of the work can be found <a href="https://github.com/FutureRising007/Table_Structure_Recognition/tree/main/5.2%20Re-Evaluation%20of%20the%20Pre-Trained%20Models/Reproduced_Results">here<a/>.
 
 ### 5.2 RE-EVALUATION OF THE PRETRAINED MODELS: 
-  * The aforementioned pre-trained models were tested on <a href="https://github.com/xuewenyuan/TGRNet">`TableGraph24k`</a> that was unfamiliar to each model to assess their capabilities in predicting bounding borders and extracting structures. The results for all the three types can be seen here.
+  * The aforementioned pre-trained models were tested on <a href="https://github.com/xuewenyuan/TGRNet">`TableGraph24k`</a> that was unfamiliar to each model to assess their capabilities in predicting bounding borders and extracting structures. The results for all the three types can be seen <a href="https://github.com/FutureRising007/Table_Structure_Recognition/tree/main/5.1%20Examining%20the%20Patterns%20of%20the%20Latest%20Models">here</a>.
   
